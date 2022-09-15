@@ -75,7 +75,7 @@ h1, h2{
     height:200px;
     padding-top:40px;
     padding-left:10px;
-    background-color:grba(241, 109, 107, .7);
+    background-color:rgb(236,63,61,0.7);
     bottom:30px;
     right:150px;
     position:absolute;
