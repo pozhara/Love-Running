@@ -99,7 +99,7 @@ h1, h2{
     margin:0 auto;
 }
 .left-about-heading{
-    width:60%;
+    width:70%;
     float:right;
     line-height:20px;
     clear:both;
@@ -111,32 +111,32 @@ hr{
     margin:5px 0;
 }
 #left-about p{
-    width:60%;
+    width:70%;
     float:right;
     clear:both;
     margin-top:0;
     margin-bottom:50px;
 }
 .right-about-heading{
-    width:60%;
+    width:70%;
     float:left;
     line-height:20px;
     clear:both;
     margin-bottom:5px;
 }
 #right-about p{
-    width:60%;
+    width:70%;
     float:left;
     clear:both;
     margin-top:0;
     margin-bottom:50px;
 }
 .right-hr{
-    width:60%;
+    width:70%;
     float:left;
 }
 .left-hr{
-    width:60%;
+    width:70%;
     float:right;
 }
 #welcome{
@@ -180,4 +180,13 @@ hr{
 }
 #times h2{
     color:#fafafa;
+}
+footer{
+    height:150px;
+}
+footer > ul{
+    text-align:center;
+}
+.social-networks > li{
+    display:inline;
 }
